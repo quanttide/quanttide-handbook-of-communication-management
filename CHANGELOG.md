@@ -5,3 +5,7 @@
 版本遵循语义化版本规范：0.0.x（探索期）→ 0.x.y（验证期）→ x.y.z（正式期）
 
 ## [Unreleased]
+
+### Added
+
+- intro/index.md、intro/memo.md：沟通管理工作手册——自 quanttide-handbook-of-business-entity 的 connect/ 平移
