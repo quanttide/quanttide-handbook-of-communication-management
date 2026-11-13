@@ -1,1 +1,7 @@
-# quanttide-handbook-of-communication-management
+# 量潮沟通管理工作手册
+
+沟通管理领域的操作手册。
+
+## 许可
+
+[CC BY 4.0](LICENSE)
